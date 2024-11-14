@@ -1,0 +1,103 @@
+Mapa Mental: https://www.planttext.com/api/plantuml/png/bLTDRzms4BqRo7yGagCJm1-f4_YKpMgtI06tcpWzfOOmIt7NR2HI9IN3yA_f8eSW1N8gUkbLVwoFfAXl7te9Od66d3Vpviti6rEIBdCXqvoA9qV7dvujulZrwk8cYhaHUvbyl1Noiv3xP55aWb6g4ahUYcqcLCaPcIT7BrvyUlPglLwVdDn4roLzvhSgIxbs9xsZTxBaMYhtjVTvcGcE4tCPhGnJ6PdeDnaPdYT6c9BdPF-agbGvbU81hu_zVpLLVT12uO8sAl_1UlA4cx9AoRumYcTrFnlFHgiTDqPfRfxR6meI-0_-AfGqzU6E2pDsMIijEUEfzR4kAOyGX5IPsWiQlNf5J2lAjmxq-A9LNk0ACacgx3qvrsm6yLBbbHGfuHcBq6LDFpdoXJW_MyRdPpVHBrl3zHtLN-j_MkJXx6S4QuoxeSKIpjR4HEQE4dz_PLG4F9eBIJc2LcEFZvgaAKZNVqacNBaaHNkalVuoiLsqXKHWNnn8GDrppQrlTttdyG4NQT63qSUeww_UoLwKYLoKlNG5grZOqebj0yiNA1aLg6SF0fJSX-Uj2otka1NhF0ek5Zl1gcmsaKigu5HweEF3wwfGkkG9KxAilyjgOc2RPQ-xB36LHsJ_RIe_2cH3gPxBqFkAEjGSRRMlK2raRUuzlIFc38KiAr42zDXgbLRCnvGOjTNEM4LDeuv2MgHKb3HVE7GwPTIl2FW3U20_4xCa-y0pAkk_GriZ4UWKZeRytc_8zktIudveNhSE6iZH9PDMGB6t6OAVba_9dN2fYgIhG1_bV2yrhMzyRISnMJk5oBNcdh3rdmQftYcTpxUfnSo4Qjfk4k66DEDQK9CGv5DfibMRM4ux51UYUbuwm8iHhmPfyFUsH7I5odbsg-pJGNLEJfQh-DIgMq7GZGH2Xb029SBfDPuLGp3XQAqhzFcGxuLMBcScoabM92PE2sa4RpCFEyeggSperTLzmLavp4mRaIygParUP9ufI0kQkfFdplWZf2j5kl5Up9amlRuE9ZzwsMk4GtDMQHk_hWy5qZkwxmeJOve8ocxnnYpdkZo6DdQeBNXA9xWNfX1wr83Xh9lV3d80RAbWgK7PwAuDMetcAmU1HfGTjMo_8DEz2UXOSep5ukN5wxEtBorB8EaFoV8wjjzx1qkEndcm3iU3xxrrmuyaccN78qwzRK3kC6bAUAS3vHuwBXoB_1g2fEJHhaVEKSHMo4qxdaRt54NaY6NVGlSTV7hQqJYq3jiFTBZf0MY39Zl-gXBbZX3g7nLP5WqTrrnhLnlopUa5l9iUA9sGTeP3tVNT641S_ti7Qaw3PpmChyXl8-JMFxJH97G_wa8ZblKt9c4PsLxn4ZEvVTEDr4Or6mPxegpNyIkxwInaVSY4iQj8SXMMeUE1HSuHPFT0-0xvTafhzxwW9qPbLJCHK1RHZ8EXtvNT5Us5pHwJyRqmsQ3qmRI_HIKyYT6eCfr6ubSUdyZUO1qQpIXqFbwB1WxNBPPaTMzLmY-umritc9davajOggETOgfR6OVca1vmo5TaLqatUlo4De5H0LylSYvJ7_KCSh-RfGvGAlOWLDQkVjpk4lwDiUDrvG0D5WIE45XMcMaTcbBx8508g6DGgkD7SjOEieQUOmbfCsAp9PlmTqqv6YvufiRBqvVdIokG47hPPYTyNaXADeJDm_sK62XIou5W-yv2lOpENxjcartymS0ECgp23kUbDJhzOTPkepbYxQY4TQHbNZFaXmxBqEcNqTFt5TUktIlyzDeEnWGXLxVsLmuz7S7yIS7vkHVEPgTVUTMvgh-bGZq2zVJYCQZuwSb_LovoEqS9qvC_E0v07kb_ue1o5HWNzQ4KJ27qDw1i-tltFm00
+
+@startmindmap
++[#ADD8E6] Design_Thinking_Aplicado_a_Bibliotecas
+--[#7FFF00] Stakeholders
+---[#7FFF00] Interno
+----[#7FFF00] Clientes: Escolas \n sem_sistema \n automatizado
+----[#7FFF00] Usuários: Bibliotecários \n e_estudantes
+---[#7FFF00] Externo
+----[#7FFF00] Professores, \n pais, responsáveis
+----[#7FFF00] Fornecedores \n de tecnologia
+---[#7FFF00] Macroambiente
+----[#7FFF00] Empresas_do \n mercado
+----[#7FFF00] Comunidade \n escolar
+
+--[#32CD32] Observações
+---[#32CD32] Necessidades
+----[#32CD32] Facilidade_de \n uso e treinamento
+----[#32CD32] Transparência \n na gestão
+----[#32CD32] Automatização \n do gerenciamento
+---[#32CD32] Restrições
+----[#32CD32] Orçamento \n limitado
+----[#32CD32] Disponibilidade \n de_tecnologia
+----[#32CD32] Proteção de \n privacidade
+---[#32CD32] Dificuldades
+----[#32CD32] Capacitação
+----[#32CD32] Suporte_contínuo
+----[#32CD32] Integração \n com a comunidade
+---[#32CD32] Padrões
+----[#32CD32] Qualidade \n e segurança
+----[#32CD32] Interface \n intuitiva
+----[#32CD32] Educação_sobre \n o sistema
+---[#32CD32] Adaptações
+----[#32CD32] Escalabilidade \n para crescimento
+----[#32CD32] Relatórios \n compreensíveis
+----[#32CD32] Atualizações \n regulares
+---[#32CD32] Problemas
+----[#32CD32] Confiança no \n sistema
+----[#32CD32] Necessidade \n de suporte
+----[#32CD32] Acesso correto \n às informações
+---[#32CD32] Relacionamentos
+----[#32CD32] Parcerias \n colaborativas
+----[#32CD32] Transparência \n entre escola e comunidade
+----[#32CD32] Colaboração \n para melhorias
+
+--[#00CED1] Mapa_de_Empatia
+---[#00CED1] Sentimentos
+----[#00CED1] Frustração \n com processos manuais
+----[#00CED1] Ansiedade \n dos alunos
+---[#00CED1] Expectativas
+----[#00CED1] Sistema_simples \n e eficiente
+---[#00CED1] Tomadas de Decisão
+----[#00CED1] Gestão de \n recursos rápida
+---[#00CED1] Medos
+----[#00CED1] Falhas no \n sistema
+----[#00CED1] Segurança dos \n dados
+---[#00CED1] Aspirações
+----[#00CED1] Biblioteca \n eficiente e central
+---[#00CED1] Pensamentos
+----[#00CED1] Resistência \n a novas tecnologias
+
+++[#4682B4] Matriz_CSD
++++[#4682B4] Certezas
+++++[#4682B4] Bibliotecas \n usam processos manuais
+++++[#4682B4] Bibliotecários \n enfrentam dificuldades
+++++[#4682B4] Alunos \n sentem frustração
++++[#4682B4] Suposições
+++++[#4682B4] App simplificará \n a gestão
+++++[#4682B4] Escolas terão \n infraestrutura adequada
+++++[#4682B4] Ferramenta para \n integração ensino e acervo
++++[#4682B4] Dúvidas
+++++[#4682B4] Aceitação do \n aplicativo
+++++[#4682B4] Capacidade \n técnica das escolas
+++++[#4682B4] Privacidade \n de dados
+
+++[#FFD700] Análise_de_Mercado
++++[#FFD700] Ameaças
+++++[#FFD700] Concorrentes \n com soluções similares
+++++[#FFD700] Mudanças \n na legislação
++++[#FFD700] Necessidades_e_Demandas
+++++[#FFD700] Automação intuitiva
+++++[#FFD700] Transparência \n em gerenciamento
++++[#FFD700] Soluções_Existentes
+++++[#FFD700] Plataformas \n sem foco escolar
+++++[#FFD700] Falta de \n funcionalidades integradas
++++[#FFD700] Tendências
+++++[#FFD700] Aumento da \n digitalização educacional
+++++[#FFD700] Sustentabilidade \n e inclusão
++++[#FFD700] Concorrência_e_Segmentos
+++++[#FFD700] Soluções \n para escolas manuais
+++++[#FFD700] Foco na \n diferenciação
+
+++[#DC143C] Personas
++++[#DC143C] Ana_Paula, \n Bibliotecária
+++++[#DC143C] Idade: 38 \n anos
+++++[#DC143C] Experiência: \n 15 anos
+++++[#DC143C] Preferência \n por intuitividade
+++++[#DC143C] Citação: "Quero \n uma biblioteca \n acolhedora"
++++[#DC143C] João, Aluno \n do Ensino Médio
+++++[#DC143C] Idade: 16 \n anos
+++++[#DC143C] Desejo por \n rapidez e interatividade
+++++[#DC143C] Citação: "Quero \n um app prático"
+@endmindmap
